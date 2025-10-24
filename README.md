@@ -10,4 +10,4 @@ I can help with:
 - Writing or improving README files  
 - Organizing open-source repos
 
-Discord: [1245021833712107603](https://discord.com/users/1245021833712107603)
+Discord: [Click Here](https://discord.com/users/1245021833712107603)
