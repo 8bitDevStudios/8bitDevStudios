@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hey, I'm 8Bit 👋
 
-<!--
-**8bitDevStudios/8bitDevStudios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Czech developer who codes cool stuff :)
 
-Here are some ideas to get you started:
+## About Me
+- 🔧 Currently working on a **Python CLI tool** that generates professional `README.md` files and optional MIT LICENSE files.
+- 💻 I mainly work with **Python**, **HTML/CSS**, **Lua**, and **Batch Script**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats
+![8bitDevStudios's GitHub Stats](https://github-readme-stats.vercel.app/api?username=8bitDevStudios&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=8bitDevStudios&layout=compact&theme=default&hide_border=true)
+
+## Connect
+- GitHub: [@8bitDevStudios](https://github.com/8bitDevStudios)
