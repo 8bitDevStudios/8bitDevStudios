@@ -3,12 +3,12 @@
 
 # 8Bit
 I'm a Czech developer focused on Python, HTML/CSS, and Lua.  
-Currently working on a CLI tool that generates clean, readable README.md files.
+Currently building a CLI tool that generates clean and readable README.md files.
 
 I can help with:
 - Project documentation  
 - Writing or improving README files  
-- Organizing open-source repos
+- Organizing open-source projects
 
-Discord: [Click Here](https://discord.com/users/1245021833712107603)
-My Website [Click Here](https://8bitdev.carrd.co/)
+Discord: [8bitstudios](https://discord.com/users/1245021833712107603)  
+Website: [8bitdev.carrd.co](https://8bitdev.carrd.co/)
