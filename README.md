@@ -11,4 +11,4 @@ I'm a Czech developer who codes cool stuff :)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=8bitDevStudios&layout=compact&theme=github_dark&hide_border=true)
 
 ## Connect
-- GitHub: [@8bitDevStudios](https://github.com/8bitDevStudios)
+- Discord: [8BitDevStudios](https://discordapp.com/users/1245021833712107603)
