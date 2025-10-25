@@ -1,17 +1,3 @@
-- GitHub Stats:
-
-```
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=8bitDevStudios)
-```
-
-- Top Languages:
-
-```
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=8bitDevStudios&layout=compact)
-```
-
-- Activity Graph:
-
-```
 ![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=8bitDevStudios)
-```
