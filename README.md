@@ -16,4 +16,4 @@ Website: [8bitdev.carrd.co](https://8bitdev.carrd.co/)
 
 ---
 
-"Code, caffeine, and bbno$ on repeat."
+Code, caffeine, and bbno$ on repeat.
