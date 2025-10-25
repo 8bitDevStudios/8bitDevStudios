@@ -11,9 +11,6 @@ I can help with:
 - Writing or improving README files  
 - Organizing open-source projects
 
-Discord: [8bitstudios](https://discord.com/users/1245021833712107603)  
-Website: [8bitdev.carrd.co](https://8bitdev.carrd.co/)
-
 ---
 
 Code, caffeine, and bbno$ on repeat.
